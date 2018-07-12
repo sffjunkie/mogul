@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <opensearch:Query searchTerms="300"/>
+  <opensearch:totalResults>5</opensearch:totalResults>
+  <movies>
+    <movie>
+      <score></score>
+      <popularity>3</popularity>
+      <translated>true</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>300</original_name>
+      <name>300</name>
+      <alternative_name>300: The IMAX Experience </alternative_name>
+      <type>movie</type>
+      <id>1271</id>
+      <imdb_id>tt0416449</imdb_id>
+      <url>http://www.themoviedb.org/movie/1271</url>
+      <votes>78</votes>
+      <rating>8.0</rating>
+      <certification>R</certification>
+      <overview>Based on Frank Miller's graphic novel, &quot;300&quot; concerns the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.</overview>
+      <released>2006-12-09</released>
+      <images>
+        <image type="poster" url="http://cf1.imgobject.com/posters/b00/4bc90fb6017a3c57fe005b00/300-original.jpg" size="original" width="1000" height="1500" id="4bc90fb6017a3c57fe005b00"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/b00/4bc90fb6017a3c57fe005b00/300-mid.jpg" size="mid" width="500" height="750" id="4bc90fb6017a3c57fe005b00"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/b00/4bc90fb6017a3c57fe005b00/300-cover.jpg" size="cover" width="185" height="278" id="4bc90fb6017a3c57fe005b00"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/b00/4bc90fb6017a3c57fe005b00/300-thumb.jpg" size="thumb" width="92" height="138" id="4bc90fb6017a3c57fe005b00"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/ac5/4bc90fad017a3c57fe005ac5/300-original.jpg" size="original" width="1280" height="720" id="4bc90fad017a3c57fe005ac5"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/ac5/4bc90fad017a3c57fe005ac5/300-poster.jpg" size="poster" width="780" height="439" id="4bc90fad017a3c57fe005ac5"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/ac5/4bc90fad017a3c57fe005ac5/300-thumb.jpg" size="thumb" width="300" height="169" id="4bc90fad017a3c57fe005ac5"/>
+      </images>
+      <version>205</version>
+      <last_modified_at>2011-02-19 03:27:34</last_modified_at>
+    </movie>
+    <movie>
+      <score></score>
+      <popularity>3</popularity>
+      <translated>true</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>3000 Miles to Graceland</original_name>
+      <name>3000 Miles to Graceland</name>
+      <alternative_name>La rapina</alternative_name>
+      <type>movie</type>
+      <id>12138</id>
+      <imdb_id>tt0233142</imdb_id>
+      <url>http://www.themoviedb.org/movie/12138</url>
+      <votes>1</votes>
+      <rating>8.0</rating>
+      <certification>R</certification>
+      <overview>It was an ingenious enough plan: rob the Riviera Casino's count room during an Elvis impersonator convention. But Thomas Murphy decided to keep all the money for himself and shot all his partners, including recently-freed ex-con Michael Zane. With $3.2 million at stake, the Marshals Service closing in, Michael must track down Murphy.</overview>
+      <released>2001-02-23</released>
+      <images>
+        <image type="poster" url="http://cf1.imgobject.com/posters/092/4bd4fa09017a3c2e71000092/3000-miles-to-graceland-original.jpg" size="original" width="1013" height="1500" id="4bd4fa09017a3c2e71000092"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/092/4bd4fa09017a3c2e71000092/3000-miles-to-graceland-mid.jpg" size="mid" width="500" height="740" id="4bd4fa09017a3c2e71000092"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/092/4bd4fa09017a3c2e71000092/3000-miles-to-graceland-cover.jpg" size="cover" width="185" height="274" id="4bd4fa09017a3c2e71000092"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/092/4bd4fa09017a3c2e71000092/3000-miles-to-graceland-thumb.jpg" size="thumb" width="92" height="136" id="4bd4fa09017a3c2e71000092"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/29d/4bc937d6017a3c57fe01729d/3000-miles-to-graceland-original.jpg" size="original" width="1280" height="720" id="4bc937d6017a3c57fe01729d"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/29d/4bc937d6017a3c57fe01729d/3000-miles-to-graceland-poster.jpg" size="poster" width="780" height="439" id="4bc937d6017a3c57fe01729d"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/29d/4bc937d6017a3c57fe01729d/3000-miles-to-graceland-thumb.jpg" size="thumb" width="300" height="169" id="4bc937d6017a3c57fe01729d"/>
+      </images>
+      <version>86</version>
+      <last_modified_at>2011-02-18 00:29:11</last_modified_at>
+    </movie>
+    <movie>
+      <score></score>
+      <popularity>3</popularity>
+      <translated>true</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>3000 Miles</original_name>
+      <name>3000 Miles</name>
+      <alternative_name></alternative_name>
+      <type>movie</type>
+      <id>19266</id>
+      <imdb_id>tt0859164</imdb_id>
+      <url>http://www.themoviedb.org/movie/19266</url>
+      <votes>0</votes>
+      <rating>0.0</rating>
+      <certification>PG-13</certification>
+      <overview>Tony Hawk and the stars of MTVs 'Jackass' race 3000 miles around the world from London to Los Angeles in just 8 days against 120 supercars in the famous Gumball 3000 Rally. '3000 Miles' follows the action, adventure and Jackass style antics along the way, with fast driving, crashes and sabotage adding to the drama and mayhem. Burt Reynolds eat your heart out!</overview>
+      <released>2007-04-24</released>
+      <images>
+        <image type="poster" url="http://cf1.imgobject.com/posters/692/4bc9560e017a3c57fe026692/3000-miles-original.jpg" size="original" width="281" height="398" id="4bc9560e017a3c57fe026692"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/692/4bc9560e017a3c57fe026692/3000-miles-mid.jpg" size="mid" width="500" height="708" id="4bc9560e017a3c57fe026692"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/692/4bc9560e017a3c57fe026692/3000-miles-cover.jpg" size="cover" width="185" height="262" id="4bc9560e017a3c57fe026692"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/692/4bc9560e017a3c57fe026692/3000-miles-thumb.jpg" size="thumb" width="92" height="130" id="4bc9560e017a3c57fe026692"/>
+      </images>
+      <version>36</version>
+      <last_modified_at>2011-02-18 00:31:17</last_modified_at>
+    </movie>
+    <movie>
+      <score></score>
+      <popularity>3</popularity>
+      <translated>true</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>The 300 Spartans</original_name>
+      <name>The 300 Spartans</name>
+      <alternative_name></alternative_name>
+      <type>movie</type>
+      <id>19972</id>
+      <imdb_id>tt0055719</imdb_id>
+      <url>http://www.themoviedb.org/movie/19972</url>
+      <votes>1</votes>
+      <rating>7.0</rating>
+      <certification>PG</certification>
+      <overview>Essentially true story of how Spartan king Leonidas led an extremely small army of Greek Soldiers (300 of his personal body guards from Sparta) to hold off an invading Persian army now thought to have numbered 250,000.</overview>
+      <released>1962-08-01</released>
+      <images>
+        <image type="poster" url="http://cf1.imgobject.com/posters/e51/4be834f3017a3c35bb000e51/the-300-spartans-original.jpg" size="original" width="697" height="995" id="4be834f3017a3c35bb000e51"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/e51/4be834f3017a3c35bb000e51/the-300-spartans-mid.jpg" size="mid" width="500" height="714" id="4be834f3017a3c35bb000e51"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/e51/4be834f3017a3c35bb000e51/the-300-spartans-cover.jpg" size="cover" width="185" height="264" id="4be834f3017a3c35bb000e51"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/e51/4be834f3017a3c35bb000e51/the-300-spartans-thumb.jpg" size="thumb" width="92" height="131" id="4be834f3017a3c35bb000e51"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/953/4bc9582a017a3c57fe027953/the-300-spartans-original.png" size="original" width="1480" height="719" id="4bc9582a017a3c57fe027953"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/953/4bc9582a017a3c57fe027953/the-300-spartans-poster.png" size="poster" width="780" height="379" id="4bc9582a017a3c57fe027953"/>
+        <image type="backdrop" url="http://cf1.imgobject.com/backdrops/953/4bc9582a017a3c57fe027953/the-300-spartans-thumb.png" size="thumb" width="300" height="146" id="4bc9582a017a3c57fe027953"/>
+      </images>
+      <version>79</version>
+      <last_modified_at>2011-02-18 01:01:59</last_modified_at>
+    </movie>
+    <movie>
+      <score></score>
+      <popularity>3</popularity>
+      <translated>true</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>300 Killers</original_name>
+      <name>300 Killers</name>
+      <alternative_name></alternative_name>
+      <type>movie</type>
+      <id>54799</id>
+      <imdb_id>tt1787636</imdb_id>
+      <url>http://www.themoviedb.org/movie/54799</url>
+      <votes>0</votes>
+      <rating>0.0</rating>
+      <certification></certification>
+      <overview>Violent crime has risen five hundred percent. One in ten people are hooked on heroin. One in five people will be assaulted or murdered, and over twenty five percent of the police force is dead or missing. For police chief Ernie Lomax (Johnny Andrews), one thing is dreadfully clear. . . There's a new pusher in town Someone so vicious, so savagely depraved, that bringing him down could launch the biggest bloodbath yet.  When detective Frank McGuffin (Anthony Tomei) disappears undercover, his girlfriend, Vicki Stanton (Tierra Peterson) teams up with chief Lomax on a suicide mission to end these brutal crimes.</overview>
+      <released>2011-01-18</released>
+      <images>
+        <image type="poster" url="http://cf1.imgobject.com/posters/d66/4d4237e65e73d65729000d66/300-killers-original.jpg" size="original" width="350" height="483" id="4d4237e65e73d65729000d66"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/d66/4d4237e65e73d65729000d66/300-killers-mid.jpg" size="mid" width="500" height="690" id="4d4237e65e73d65729000d66"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/d66/4d4237e65e73d65729000d66/300-killers-cover.jpg" size="cover" width="185" height="255" id="4d4237e65e73d65729000d66"/>
+        <image type="poster" url="http://cf1.imgobject.com/posters/d66/4d4237e65e73d65729000d66/300-killers-thumb.jpg" size="thumb" width="92" height="127" id="4d4237e65e73d65729000d66"/>
+      </images>
+      <version>34</version>
+      <last_modified_at>2011-02-18 00:11:52</last_modified_at>
+    </movie>
+  </movies>
+</OpenSearchDescription>
+
+

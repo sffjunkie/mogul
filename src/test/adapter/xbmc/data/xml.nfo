@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <width>480</width>
+        <height>160</height>
+        <aspect>3.000</aspect>
+        <codec>avc1</codec>
+        <format>avc1</format>
+        <duration>1h 56mn</duration>
+        <bitrate>474 Kbps</bitrate>
+        <bitratemode>Variable</bitratemode>
+        <container>.mp4</container>
+        <codecidinfo>Advanced Video Coding</codecidinfo>
+        <scantype>25.000</scantype>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <channels>2</channels>
+        <bitrate>128 Kbps</bitrate>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <title>Amelie</title>
+  <sorttitle>Amelie</sorttitle>
+  <year>2001</year>
+  <rating>0</rating>
+  <votes>
+  </votes>
+  <top250>0</top250>
+  <outline>
+  </outline>
+  <plot>
+  </plot>
+  <tagline>
+  </tagline>
+  <runtime>116 min</runtime>
+  <mpaa>
+  </mpaa>
+  <genre>
+  </genre>
+  <credits>
+  </credits>
+  <director>
+  </director>
+  <studio>
+  </studio>
+  <trailer>
+  </trailer>
+  <playcount>0</playcount>
+  <id>tt0211915</id>
+  <createdate>20101014160919</createdate>
+  <actor>
+    <name>Audrey Tautou</name>
+    <role>Amélie Poulain</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMjk2MzcyMTk4NV5BMl5BanBnXkFtZTYwMjgwNzc4._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mathieu Kassovitz</name>
+    <role>Nino Quincampoix</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMTg5MzU4NDI0NF5BMl5BanBnXkFtZTcwODY3NjkxMQ@@._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rufus</name>
+    <role>Raphaël Poulain</role>
+  </actor>
+  <actor>
+    <name>Lorella Cravotta</name>
+    <role>Amandine Poulain</role>
+  </actor>
+  <actor>
+    <name>Serge Merlin</name>
+    <role>Raymond Dufayel</role>
+  </actor>
+  <actor>
+    <name>Jamel Debbouze</name>
+    <role>Lucien</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMTgxNjcyNzY4N15BMl5BanBnXkFtZTYwMTMyNTI3._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Clotilde Mollet</name>
+    <role>Gina</role>
+  </actor>
+  <actor>
+    <name>Claire Maurier</name>
+    <role>Madame Suzanne - la patronne du café</role>
+  </actor>
+  <actor>
+    <name>Isabelle Nanty</name>
+    <role>Georgette</role>
+  </actor>
+  <actor>
+    <name>Dominique Pinon</name>
+    <role>Joseph</role>
+  </actor>
+  <actor>
+    <name>Artus de Penguern</name>
+    <role>Hipolito</role>
+  </actor>
+  <actor>
+    <name>Yolande Moreau</name>
+    <role>Madeleine Wallace</role>
+  </actor>
+  <actor>
+    <name>Urbain Cancelier</name>
+    <role>Collignon</role>
+  </actor>
+  <actor>
+    <name>Maurice Bénichou</name>
+    <role>Dominique Bretodeau</role>
+  </actor>
+  <actor>
+    <name>Michel Robin</name>
+    <role>Mr. Collignon</role>
+  </actor>
+  <actor>
+    <name>Andrée Damant</name>
+    <role>Mrs. Collignon</role>
+  </actor>
+  <actor>
+    <name>Claude Perron</name>
+    <role>Eva</role>
+  </actor>
+  <actor>
+    <name>Armelle</name>
+    <role>Philomène</role>
+  </actor>
+  <actor>
+    <name>Ticky Holgado</name>
+    <role>L'homme dans la photo</role>
+  </actor>
+  <actor>
+    <name>Kevin Fernandes</name>
+    <role>Bretodeau enfant</role>
+  </actor>
+  <actor>
+    <name>Flora Guiet</name>
+    <role>Amélie enfant</role>
+  </actor>
+  <actor>
+    <name>Amaury Babault</name>
+    <role>Nino enfant</role>
+  </actor>
+  <actor>
+    <name>André Dussollier</name>
+    <role>Narrator / Récitant (voice)</role>
+  </actor>
+  <actor>
+    <name>Eugène Berthier</name>
+    <role>Eugène Koler</role>
+  </actor>
+  <actor>
+    <name>Marion Pressburger</name>
+    <role>Petites mains du générique</role>
+  </actor>
+  <actor>
+    <name>Charles-Roger Bour</name>
+    <role>L'homme à la vespasienne</role>
+  </actor>
+  <actor>
+    <name>Luc Palun</name>
+    <role>L'épicier d'Amandine</role>
+  </actor>
+  <actor>
+    <name>Fabienne Chaudat</name>
+    <role>La femme dans le coma</role>
+  </actor>
+  <actor>
+    <name>Dominique Bettenfeld</name>
+    <role>Le voisin d'Amélie</role>
+  </actor>
+  <actor>
+    <name>Jacques Viala</name>
+    <role>Le client qui humilie son ami</role>
+  </actor>
+  <actor>
+    <name>Fabien Béhar</name>
+    <role>Le client humilié</role>
+  </actor>
+  <actor>
+    <name>Jonathan Joss</name>
+    <role>Le fils du client humilié</role>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Becker</name>
+    <role>Le clochard</role>
+  </actor>
+  <actor>
+    <name>Jean Darie</name>
+    <role>L'aveugle</role>
+  </actor>
+  <actor>
+    <name>Thierry Gibault</name>
+    <role>Le client aux endives</role>
+  </actor>
+  <actor>
+    <name>François Bercovici</name>
+    <role>Son copain</role>
+  </actor>
+  <actor>
+    <name>Franck Monier</name>
+    <role>Dominique Bredoteau jeune</role>
+  </actor>
+  <actor>
+    <name>Guillaume Viry</name>
+    <role>Le S.D.F.</role>
+  </actor>
+  <actor>
+    <name>Valérie Zarrouk</name>
+    <role>Dominique Bredoteau femme</role>
+  </actor>
+  <actor>
+    <name>Marie-Laure Descoureaux</name>
+    <role>La concierge du mort</role>
+  </actor>
+  <actor>
+    <name>Sophie Tellier</name>
+    <role>La Tante Josette</role>
+  </actor>
+  <actor>
+    <name>Gérald Weingand</name>
+    <role>L'instituteur</role>
+  </actor>
+  <actor>
+    <name>François Viaur</name>
+    <role>Le patron du bistrot</role>
+  </actor>
+  <actor>
+    <name>Paule Daré</name>
+    <role>Son employée</role>
+  </actor>
+  <actor>
+    <name>Marc Amyot</name>
+    <role>L'inconnu des photomatons</role>
+  </actor>
+  <actor>
+    <name>Myriam Labbé</name>
+    <role>La cliente du tabac</role>
+  </actor>
+  <actor>
+    <name>Jean Rupert</name>
+    <role>L'opéré des cloisons nasales</role>
+  </actor>
+  <actor>
+    <name>Frankie Pain</name>
+    <role>La marchande de journaux (as Franckie Pain)</role>
+  </actor>
+  <actor>
+    <name>Julianna Kovacs</name>
+    <role>Une cliente de l'épicerie</role>
+  </actor>
+  <actor>
+    <name>Philippe Paimblanc</name>
+    <role>Le contrôleur du train</role>
+  </actor>
+  <actor>
+    <name>Mady Malroux</name>
+    <role>Les jumelles</role>
+  </actor>
+  <actor>
+    <name>Monette Malroux</name>
+    <role>Les jumelles</role>
+  </actor>
+  <actor>
+    <name>Robert Gendreu</name>
+    <role>Le client du café</role>
+  </actor>
+  <actor>
+    <name>Valériane de Villeneuve</name>
+    <role>La femme qui rit</role>
+  </actor>
+  <actor>
+    <name>Isis Peyrade</name>
+    <role>Samantha</role>
+  </actor>
+  <actor>
+    <name>Raymonde Heudeline</name>
+    <role>La caissière du train fantôme</role>
+  </actor>
+  <actor>
+    <name>Christiane Bopp</name>
+    <role>La femme près du manège</role>
+  </actor>
+  <actor>
+    <name>Thierry Arfeuillères</name>
+    <role>L'homme statue</role>
+  </actor>
+  <actor>
+    <name>Jerry Lucas</name>
+    <role>Le petit garçon du Sacré-Coeur</role>
+  </actor>
+  <actor>
+    <name>Patrick Paroux</name>
+    <role>Le souffleur de rue</role>
+  </actor>
+  <actor>
+    <name>François Aubineau</name>
+    <role>Le facteur de la concierge</role>
+  </actor>
+  <actor>
+    <name>Philippe Beautier</name>
+    <role>Le facteur de Poulain</role>
+  </actor>
+  <actor>
+    <name>Karine Asure</name>
+    <role>La jolie fille du rendez-vous</role>
+  </actor>
+  <actor>
+    <name>Régis Iacono</name>
+    <role>Félix L'Herbier</role>
+  </actor>
+  <actor>
+    <name>Franck-Olivier Bonnet</name>
+    <role>Palace Video (voice)</role>
+  </actor>
+  <actor>
+    <name>Alain Floret</name>
+    <role>Le mari de la concierge (voice)</role>
+  </actor>
+  <actor>
+    <name>Jean-Pol Brissart</name>
+    <role>Jacques Grosjean (voice)</role>
+  </actor>
+  <actor>
+    <name>Frédéric Mitterrand</name>
+    <role>Himself (voice)</role>
+  </actor>
+  <actor>
+    <name>Manoush</name>
+    <role>Nymphomaniac woman</role>
+  </actor>
+  <actor>
+    <name>Dean Baykan</name>
+    <role> (uncredited)</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMTAzNTI0OTY4NTZeQTJeQWpwZ15BbWU3MDYyNTE0NjE@._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Joan Bennett</name>
+    <role>Ellie Banks</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMTk0OTE5MzU0N15BMl5BanBnXkFtZTYwMTA3MjU2._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Clément Chebli</name>
+    <role> (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Rudy Galindo</name>
+    <role>Himself (archive footage) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Valérie Labro</name>
+    <role> (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Jean-Michel Larqué</name>
+    <role>Himself (voice) (archive footage) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Federico Martín Bahamontes</name>
+    <role>Himself (archive footage) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Thierry Roland</name>
+    <role>Himself (voice) (archive footage) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Sister Rosetta Tharpe</name>
+    <role>Herself (archive footage) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Jacques Thébault</name>
+    <role>Voice-Over (voice) (uncredited)</role>
+  </actor>
+  <actor>
+    <name>Spencer Tracy</name>
+    <role>Stanley T. Banks (uncredited) (archive footage)</role>
+    <thumb>http://ia.media-imdb.com/images/M/MV5BMTIwNjE5NTc0OV5BMl5BanBnXkFtZTYwNDU5ODI2._V._V1._SY400_SX300_.jpg</thumb>
+  </actor>
+</movie>

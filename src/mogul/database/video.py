@@ -1,0 +1,2 @@
+class VideoDatabase(object):
+    pass
